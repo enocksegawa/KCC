@@ -1,0 +1,1 @@
+If you want to learn how to use Git and Git Hub in less than an hour, don't even start. Kevin is a good teacher, and he delivered the basics of the topics in about 46 minutes. But if you follow along, it will take much longer than an hour to learn them. Though, I still recommend that you check out the tutorial at https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1759s.
